@@ -1,4 +1,8 @@
 #include<iostream>
+using namespace std;
 int main() {
-    std::cout<<"hello";
+    cout<<"hello";
+    int a,b;
+    cin>>a>>b;
+    cout<<a+b;
 }
